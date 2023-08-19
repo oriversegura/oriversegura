@@ -23,6 +23,8 @@
 <p> • Monitoring Tools, ticketing, etc.</p>
 </i></h4>
 <br>
+
+#### Note: I prefer to use gitlab ✨
 <!-- <h3><i> Voluntering: </i></h3> 
 <p> • Linux Dominicana (Staff)</p>
 <p> • OpenSaturday (Staff)</p>

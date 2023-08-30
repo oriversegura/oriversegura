@@ -24,12 +24,9 @@
 </i></h4>
 <br>
 
-#### Note: I prefer to use gitlab ✨
-<!-- <h3><i> Voluntering: </i></h3> 
-<p> • Linux Dominicana (Staff)</p>
-<p> • OpenSaturday (Staff)</p>
+<h3><i> Voluntering: </i></h3> 
 <p> • AlmaLinux (Member Contrinutor)</p>
-<br><br> -->
+<br><br>
 
 <!---
 unixthec/unixthec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

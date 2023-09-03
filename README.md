@@ -1,6 +1,6 @@
 <!-- Readme Oriver Segura -->
 
-<h1> &#128304; Welcome to my GitHub Profile! &#128304;</h1>
+<h1> &#128304; Welcome to my Profile! &#128304;</h1>
 
 <h4><b>
 <p>A little about me:</p>

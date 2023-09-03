@@ -25,6 +25,7 @@
 <br>
 
 <h3><i> Voluntering: </i></h3> 
+<p> • FOSSRD (Admin - Founder - Speaker)</p>    
 <p> • AlmaLinux (Member Contrinutor)</p>
 <br><br>
 

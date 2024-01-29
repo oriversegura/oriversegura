@@ -1,47 +1,28 @@
-<!-- Readme Oriver Segura
+I will tell you a little about me.
 
-<h1> &#128304; Welcome to my Profile! &#128304;</h1>
+I'm 33 years old, I've always liked everything related to technology, I started studying Systems Engineering but I didn't finish because of life, after many years working in infrastructure integration, I decided to start my own path, which led me to where I am now, which is driving my own company, and at the same time I'm studying software engineering.
 
-<h4><b>
-<p>A little about me:</p>
+At the moment my repositories may not be the most interesting, but with time they will improve.
 
-<p>I have been using a computer for as long as i can remember, I studied systems engineering at a university in my country (career that does not end), but luckily I started working in the technology area. I focused on learning everything about Data Networks, After having met with an old love (linux), I wanted to study it until I reached the level of system administrator, after achieving this small goal, I started with software development.</p>
-</h4></b>
+Some of the things I know are:
 
-<i><h4> I have some technical knowledge that I will detail in the following list:</i></h4>
+- System Administration (SysAdmin).
+- Data Network Administration.
+- Design and implementation of enterprise technology infrastructures, this includes: Structured Cabling, Information Security, Server Implementation, Firewall, Switches, Services, VoIP, etc.
+- Version Control Systems (Git).
+- Enterprise Administration.
+- Project Management.
 
-<i><h4>
-<p> • Operating systems admin and maintenance: Linux, Unix, BSD, MacOS, Windows.</p>
-<p> • Databases: Oracle, PostgreSQL, MongoDB and others.</p>
-<p> • VoIP: FreePBX, Issabel, Grandstream and others.</p>
-<p> • VPN: L2TP/IpSec, SSTP, OpenVPN, WireGuard, etc.</p>
-<p> • Scripting: Bash, PowerShell, etc.</p>
-<p> • Networking: TCP/IP, SSH, DNS, SSL/TLS, IPV4, IPV6, QoS, Routing, Filtering, Layer 7, etc.</p>
-<p> • DevOps: Apache, NGINX, Lighthttpd, Bitbucket, Git, Github, GitLab, CI/CD, etc.</p>
-<p> • Virtualization/Contenerization/Cloud: Oracle Cloud, AWS, Azure, Google Cloud, KVM, VMware, Proxmox, Docker, LXC, OpenShift.</p>
-<p> • Installation, support, and maintenance of personal, enterprise workstations and servers.</p>
-<p> • Monitoring Tools, ticketing, etc.</p>
-</i></h4>
-<br>
+Some of the things I am learning are:
 
-<h3><i> Voluntering: </i></h3>
-<p> • FOSS-RD (Admin/Speaker/Co-Founder)</p>
-<p> • AlmaLinux (Member Contributor)</p>
-<br><br>
+- Algorithms
+- Programming Logic
+- C#
+- Cloud Computing
 
-<!---
-unixthec/unixthec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Some of the things I would like to learn are:
 
-<!--
-- 👋 Hi, I’m @oriversegura
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Golang
 
-<!---
-oriversegura/oriversegura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I use on my computers: NixOS or Arch and Windows.
+I use for servers: SUSE, Windows, Proxmox, VMWare, Etc.

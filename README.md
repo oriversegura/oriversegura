@@ -4,7 +4,7 @@ I'm 33 years old, I've always liked everything related to technology, I started 
 
 At the moment my repositories may not be the most interesting, but with time they will improve.
 
-Some of the things I know are:
+### Some of the things I know are:
 
 - System Administration (SysAdmin).
 - Data Network Administration.
@@ -13,17 +13,17 @@ Some of the things I know are:
 - Enterprise Administration.
 - Project Management.
 
-Some of the things I am learning are:
+### Some of the things I am learning are:
 
 - Algorithms
 - Programming Logic
 - C#
 - Cloud Computing
 
-Some of the things I would like to learn are:
+### Some of the things I would like to learn are:
 
 - Golang
 
-### I use on my computers: NixOS or Arch and Windows.
+#### I use on my computers: NixOS or Arch and Windows.
 
-### I use for servers: SUSE, Windows, Proxmox, VMWare, Etc.
+#### I use for servers: SUSE, Windows, Proxmox, VMWare, Etc.

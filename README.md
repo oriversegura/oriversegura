@@ -22,7 +22,8 @@ At the moment my repositories may not be the most interesting, but with time the
 
 ### Some of the things I would like to learn are:
 
-- Golang
+- Cloud Computing
+- Business Inteligence 
 
 #### I use on my computers: NixOS or Arch and Windows.
 

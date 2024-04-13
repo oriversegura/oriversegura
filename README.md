@@ -17,7 +17,7 @@ At the moment my repositories may not be the most interesting, but with time the
 
 - Algorithms
 - Programming Logic
-- C#
+- Golang, C#, Python.
 - Cloud Computing
 
 ### Some of the things I would like to learn are:

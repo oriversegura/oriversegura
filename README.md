@@ -47,4 +47,4 @@ At the moment my repositories may not be the most interesting, but with time the
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oriversegura&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriversegura&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriversegura&layout=compact&hide=shell,scheme,css,lua)
